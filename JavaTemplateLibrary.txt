@@ -1,0 +1,18 @@
+Binary Search
+Sliding Window
+Two Pointers
+DFS
+BFS
+Backtracking
+Heap
+Monotonic Stack
+Union Find
+Topological Sort
+Dijkstra
+Trie
+1D DP
+2D DP
+Knapsack
+Prefix Sum
+Intervals
+Bit manipulation

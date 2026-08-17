@@ -1,0 +1,8 @@
+Pattern:
+When to recognize it:
+Core idea:
+Java template:
+Time complexity:
+Space complexity:
+Classic problems:
+Variations:

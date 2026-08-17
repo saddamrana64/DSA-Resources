@@ -1,0 +1,13 @@
+Problem:
+Why couldn't I solve it?
+
+[ ] Didn't recognize pattern
+[ ] Didn't know data structure
+[ ] Logic error
+[ ] Java implementation error
+[ ] Complexity mistake
+[ ] Edge case
+[ ] Panic/time pressure
+
+Correct insight:
+What clue should I have noticed?

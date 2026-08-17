@@ -1,0 +1,7 @@
+R1 → next day
+
+R2 → 3 days later
+
+R3 → 7 days later
+
+R4 → 14 days later
